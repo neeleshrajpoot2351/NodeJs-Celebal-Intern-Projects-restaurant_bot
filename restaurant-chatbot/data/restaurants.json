@@ -1,0 +1,276 @@
+[
+  {
+    "name": "Royal Tandoor",
+    "city": "Mumbai",
+    "cuisine": "Indian",
+    "price_range": { "symbol": "₹₹", "approximate_cost_for_two": 600 },
+    "rating": 4.6,
+    "menu": [
+      { "name": "Butter Chicken", "price": 350, "description": "Classic creamy chicken curry." },
+      { "name": "Paneer Lababdar", "price": 300, "description": "Rich paneer dish with Indian spices." },
+      { "name": "Tandoori Naan", "price": 40, "description": "Freshly baked bread." }
+    ]
+  },
+  {
+    "name": "Mumbai Spice House",  
+    "city": "Mumbai",           
+    "cuisine": "Indian",
+    "price_range": { "symbol": "₹₹", "approximate_cost_for_two": 700 },
+    "rating": 4.2,
+    "menu": [
+      { "name": "Chicken Tikka Masala", "price": 400, "description": "Grilled chicken in spiced gravy." },
+      { "name": "Vegetable Biryani", "price": 280, "description": "Fragrant rice with mixed vegetables." }
+    ]
+  },
+  {
+    "name": "Sushi Haven",
+    "city": "Delhi",
+    "cuisine": "Japanese",
+    "price_range": { "symbol": "¥¥", "approximate_cost_for_two": 5000 },
+    "rating": 4.8,
+    "menu": [
+      { "name": "California Roll", "price": 800, "description": "Avocado, cucumber, and crab meat." },
+      { "name": "Salmon Sashimi", "price": 1200, "description": "Fresh salmon slices." },
+      { "name": "Miso Soup", "price": 300, "description": "Traditional Japanese soup." }
+    ]
+  },
+  {
+    "name": "Tokyo Bites",      
+    "city": "Delhi",           
+    "cuisine": "Japanese",
+    "price_range": { "symbol": "¥", "approximate_cost_for_two": 2500 },
+    "rating": 4.1,
+    "menu": [
+      { "name": "Tempura Prawns", "price": 950, "description": "Lightly battered fried prawns." },
+      { "name": "Veggie Noodles", "price": 450, "description": "Stir-fried noodles with fresh vegetables." }
+    ]
+  },
+  {
+    "name": "Pasta Palace",
+    "city": "Delhi",
+    "cuisine": "Italian",
+    "price_range": { "symbol": "€€", "approximate_cost_for_two": 50 },
+    "rating": 4.5,
+    "menu": [
+      { "name": "Spaghetti Carbonara", "price": 15, "description": "Creamy pasta with bacon and egg." },
+      { "name": "Margherita Pizza", "price": 12, "description": "Classic pizza with tomato and mozzarella." },
+      { "name": "Tiramisu", "price": 8, "description": "Italian coffee-flavored dessert." }
+    ]
+  },
+  {
+    "name": "Taco Fiesta",
+    "city": "Delhi",
+    "cuisine": "Mexican",
+    "price_range": { "symbol": "$$", "approximate_cost_for_two": 800 },
+    "rating": 4.7,
+    "menu": [
+      { "name": "Chicken Tacos", "price": 200, "description": "Soft tortillas with seasoned chicken." },
+      { "name": "Guacamole", "price": 150, "description": "Fresh avocado dip." },
+      { "name": "Churros", "price": 100, "description": "Fried dough pastry with cinnamon sugar." }
+    ]
+  },
+  {
+    "name": "Burger Bliss",
+    "city": "Kolkata",
+    "cuisine": "American",
+    "price_range": { "symbol": "$$", "approximate_cost_for_two": 600 },
+    "rating": 4.3,
+    "menu": [
+      { "name": "Cheeseburger", "price": 250, "description": "Classic beef patty with cheese." },
+      { "name": "French Fries", "price": 100, "description": "Crispy potato fries." },
+      { "name": "Milkshake", "price": 150, "description": "Thick and creamy milkshake." }
+    ]
+  },
+  {
+    "name": "Dim Sum Delight",
+    "city": "Kolkata",
+    "cuisine": "Chinese",
+    "price_range": { "symbol": "¥", "approximate_cost_for_two": 400 },
+    "rating": 4.4,
+    "menu": [
+      { "name": "Prawn Dumplings", "price": 300, "description": "Steamed dumplings with succulent prawns." },
+      { "name": "Vegetable Spring Rolls", "price": 150, "description": "Crispy rolls filled with vegetables." },
+      { "name": "Hot and Sour Soup", "price": 100, "description": "Spicy and tangy soup." }
+    ]
+  },
+  {
+    "name": "Café Paris",
+    "city": "Kolkata",
+    "cuisine": "French",
+    "price_range": { "symbol": "€", "approximate_cost_for_two": 70 },
+    "rating": 4.9,
+    "menu": [
+      { "name": "Croissant", "price": 5, "description": "Buttery, flaky pastry." },
+      { "name": "Quiche Lorraine", "price": 10, "description": "Savory tart with bacon and cheese." },
+      { "name": "Crème Brûlée", "price": 8, "description": "Rich custard with a caramelized sugar top." }
+    ]
+  },
+  {
+    "name": "Spice Route",
+    "city": "Ahmedabad",
+    "cuisine": "Thai",
+    "price_range": { "symbol": "฿", "approximate_cost_for_two": 900 },
+    "rating": 4.2,
+    "menu": [
+      { "name": "Pad Thai", "price": 250, "description": "Stir-fried rice noodles." },
+      { "name": "Green Curry", "price": 300, "description": "Spicy coconut milk curry." },
+      { "name": "Mango Sticky Rice", "price": 200, "description": "Sweet sticky rice with fresh mango." }
+    ]
+  },
+  {
+    "name": "Vegan Vibes",
+    "city": "Delhi",
+    "cuisine": "Vegan",
+    "price_range": { "symbol": "₹", "approximate_cost_for_two": 500 },
+    "rating": 4.1,
+    "menu": [
+      { "name": "Chickpea Salad", "price": 200, "description": "Healthy salad with chickpeas." },
+      { "name": "Quinoa Bowl", "price": 250, "description": "Nutritious quinoa with vegetables." },
+      { "name": "Fruit Smoothie", "price": 150, "description": "Blended fruit drink." }
+    ]
+  },
+  {
+    "name": "Steakhouse Supreme",
+    "city": "Lucknow",
+    "cuisine": "Steakhouse",
+    "price_range": { "symbol": "$$$", "approximate_cost_for_two": 2000 },
+    "rating": 4.8,
+    "menu": [
+      { "name": "Ribeye Steak", "price": 1200, "description": "Juicy grilled ribeye." },
+      { "name": "Grilled Vegetables", "price": 300, "description": "Assorted grilled seasonal vegetables." },
+      { "name": "Chocolate Lava Cake", "price": 400, "description": "Warm chocolate cake with a molten center." }
+    ]
+  },
+  {
+    "name": "Bakery Bliss",
+    "city": "Surat",
+    "cuisine": "Bakery",
+    "price_range": { "symbol": "₹", "approximate_cost_for_two": 300 },
+    "rating": 4.5,
+    "menu": [
+      { "name": "Chocolate Cake", "price": 150, "description": "Rich chocolate layered cake." },
+      { "name": "Croissant", "price": 50, "description": "Flaky butter croissant." },
+      { "name": "Fruit Tart", "price": 100, "description": "Sweet tart with fresh fruits." }
+    ]
+  },
+  {
+    "name": "Seafood Shack",
+    "city": "Goa",
+    "cuisine": "Seafood",
+    "price_range": { "symbol": "₹₹₹", "approximate_cost_for_two": 1500 },
+    "rating": 4.9,
+    "menu": [
+      { "name": "Grilled Prawns", "price": 600, "description": "Succulent grilled prawns with spices." },
+      { "name": "Fish Curry", "price": 500, "description": "Traditional Goan fish curry." },
+      { "name": "Crab Cakes", "price": 400, "description": "Crispy crab patties." }
+    ]
+  },
+  {
+    "name": "Curry Corner",
+    "city": "Chandigarh",
+    "cuisine": "Punjabi",
+    "price_range": { "symbol": "₹₹", "approximate_cost_for_two": 700 },
+    "rating": 4.6,
+    "menu": [
+      { "name": "Dal Makhani", "price": 250, "description": "Black lentils cooked in a rich creamy sauce." },
+      { "name": "Aloo Gobi", "price": 200, "description": "Potatoes and cauliflower in a spiced curry." },
+      { "name": "Lassi", "price": 100, "description": "Refreshing yogurt drink." }
+    ]
+  },
+  {
+    "name": "Gelato Galore",
+    "city": "Bhopal",
+    "cuisine": "Ice Cream",
+    "price_range": { "symbol": "₹", "approximate_cost_for_two": 200 },
+    "rating": 4.7,
+    "menu": [
+      { "name": "Chocolate Gelato", "price": 80, "description": "Rich Italian chocolate ice cream." },
+      { "name": "Strawberry Sorbet", "price": 70, "description": "Refreshing dairy-free strawberry sorbet." },
+      { "name": "Vanilla Bean Ice Cream", "price": 60, "description": "Classic vanilla ice cream." }
+    ]
+  },
+  {
+    "name": "Barbecue Bliss",
+    "city": "Indore",
+    "cuisine": "Barbecue",
+    "price_range": { "symbol": "₹₹", "approximate_cost_for_two": 800 },
+    "rating": 4.4,
+    "menu": [
+      { "name": "Grilled Chicken Skewers", "price": 300, "description": "Tender chicken pieces on skewers." },
+      { "name": "Barbecue Ribs", "price": 500, "description": "Slow-cooked ribs with BBQ sauce." },
+      { "name": "Corn on the Cob", "price": 100, "description": "Sweet corn, grilled to perfection." }
+    ]
+  },
+  {
+    "name": "Sweets & Treats",
+    "city": "Vadodara",
+    "cuisine": "Desserts",
+    "price_range": { "symbol": "₹", "approximate_cost_for_two": 250 },
+    "rating": 4.5,
+    "menu": [
+      { "name": "Gulab Jamun", "price": 80, "description": "Fried milk-solid balls in sweet syrup." },
+      { "name": "Rasgulla", "price": 70, "description": "Spongy cottage cheese balls in light syrup." },
+      { "name": "Kheer", "price": 100, "description": "Indian rice pudding." }
+    ]
+  },
+  {
+    "name": "Coffee Corner",
+    "city": "Mysore",
+    "cuisine": "Café",
+    "price_range": { "symbol": "₹", "approximate_cost_for_two": 150 },
+    "rating": 4.3,
+    "menu": [
+      { "name": "Espresso", "price": 50, "description": "Strong black coffee." },
+      { "name": "Cappuccino", "price": 70, "description": "Coffee with foamed milk." },
+      { "name": "Cheese Sandwich", "price": 30, "description": "Simple cheese sandwich." }
+    ]
+  },
+  {
+    "name": "Pizza Paradise",
+    "city": "Nagpur",
+    "cuisine": "Pizza",
+    "price_range": { "symbol": "₹₹", "approximate_cost_for_two": 500 },
+    "rating": 4.6,
+    "menu": [
+      { "name": "Pepperoni Pizza", "price": 250, "description": "Pizza topped with pepperoni slices." },
+      { "name": "Veggie Supreme", "price": 200, "description": "Pizza with assorted vegetables." },
+      { "name": "Garlic Bread", "price": 100, "description": "Toasted bread with garlic butter." }
+    ]
+  },
+  {
+    "name": "Salad Sensation",
+    "city": "Thiruvananthapuram",
+    "cuisine": "Salads",
+    "price_range": { "symbol": "₹", "approximate_cost_for_two": 300 },
+    "rating": 4.2,
+    "menu": [
+      { "name": "Caesar Salad", "price": 150, "description": "Classic salad with croutons and Caesar dressing." },
+      { "name": "Greek Salad", "price": 200, "description": "Salad with feta cheese, olives, and vegetables." },
+      { "name": "Fruit Salad", "price": 100, "description": "Fresh seasonal fruit mix." }
+    ]
+  },
+  {
+    "name": "Noodle Nirvana",
+    "city": "Coimbatore",
+    "cuisine": "Noodles",
+    "price_range": { "symbol": "₹", "approximate_cost_for_two": 400 },
+    "rating": 4.5,
+    "menu": [
+      { "name": "Chow Mein", "price": 200, "description": "Stir-fried noodles with vegetables." },
+      { "name": "Hakka Noodles", "price": 250, "description": "Indian-Chinese style stir-fried noodles." },
+      { "name": "Spring Rolls", "price": 100, "description": "Crispy fried rolls." }
+    ]
+  },
+  {
+    "name": "Biryani Bliss",
+    "city": "Visakhapatnam",
+    "cuisine": "Biryani",
+    "price_range": { "symbol": "₹₹", "approximate_cost_for_two": 700 },
+    "rating": 4.8,
+    "menu": [
+      { "name": "Hyderabadi Biryani", "price": 350, "description": "Fragrant basmati rice cooked with meat/vegetables." },
+      { "name": "Kolkata Biryani", "price": 300, "description": "Biryani with potatoes and a subtle flavor." },
+      { "name": "Raita", "price": 50, "description": "Cooling yogurt dip." }
+    ]
+  }
+]
