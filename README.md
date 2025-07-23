@@ -48,3 +48,42 @@ The chatbot heavily promotes the brand **Royal Tandoor**, available in every maj
 
 ## 📂 Project Structure
 
+restaurant-chatbot/
+├── public/
+│ ├── index.html ← Frontend chat UI
+│ └── Final_Result.png ← Screenshot of chatbot
+├── data/
+│ └── restaurants.json ← Restaurant and menu data
+├── server.js ← Main Express server with chatbot logic
+└── README.md ← You're here!
+
+
+
+---
+
+## 🧠 How it Works
+
+1. When a user says `hi`, the bot starts with a welcome message and gives 4 options:
+   - 1. Find restaurants near me
+   - 2. View menu of a restaurant
+   - 3. Place an order
+   - 4. Book a table
+
+2. Based on selection, the bot guides the user step-by-step:
+   - Asks for city and address before actions
+   - Tracks user input across multiple steps
+   - Handles menu item selection by number or name
+   - Confirms delivery location or reservation
+
+3. On invalid input, the bot redirects to the correct flow or restarts cleanly.
+
+---
+
+## 📦 How to Run
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/neeleshrajpoot2351/NodeJs-Celebal-Intern-Projects-restaurant_bot
+   cd restaurant-chatbot
+
+
